@@ -23,4 +23,5 @@ themselves. Only edit files.
 2. Add it to `apps` in `source.json` with `"versions": []`. The fields are described in
    [Make a Source](https://faq.altstore.io/developers/make-a-source); icons go in `icons/`,
    screenshots in `screenshots/<app>/`.
-3. Publish its first version as above.
+3. Publish its first version as above before `source.json` is pushed: AltStore PAL won't add the
+   source while any app in it has no versions.

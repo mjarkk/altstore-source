@@ -42,7 +42,28 @@
           }
         ]
       },
-      "versions": [],
+      "versions": [
+        {
+          "version": "1.1.0",
+          "buildVersion": "2",
+          "date": "2026-10-31",
+          "downloadURL": "https://github.com/mjarkk/altstore-source/releases/download/com.mkopenga.ratsquads-1.1.0-2/manifest.json",
+          "assetURLs": {
+            "manifest": "https://github.com/mjarkk/altstore-source/releases/download/com.mkopenga.ratsquads-1.1.0-2/manifest.json",
+            "signature": "https://github.com/mjarkk/altstore-source/releases/download/com.mkopenga.ratsquads-1.1.0-2/signature",
+            "0a6c3810-a818-37f4-ae57-a2b861b45551": "https://github.com/mjarkk/altstore-source/releases/download/com.mkopenga.ratsquads-1.1.0-2/0a6c3810-a818-37f4-ae57-a2b861b45551.ipa",
+            "24d503d1-c202-3a31-8509-f94f7a8636fd": "https://github.com/mjarkk/altstore-source/releases/download/com.mkopenga.ratsquads-1.1.0-2/24d503d1-c202-3a31-8509-f94f7a8636fd.ipa",
+            "31c45828-b642-3558-b092-7dbb3aaaecb7": "https://github.com/mjarkk/altstore-source/releases/download/com.mkopenga.ratsquads-1.1.0-2/31c45828-b642-3558-b092-7dbb3aaaecb7.ipa",
+            "3e1d2eb7-870c-341a-a4a1-02bbead27dbd": "https://github.com/mjarkk/altstore-source/releases/download/com.mkopenga.ratsquads-1.1.0-2/3e1d2eb7-870c-341a-a4a1-02bbead27dbd.ipa",
+            "67ce4fa4-8948-3e26-bffb-9d064271f778": "https://github.com/mjarkk/altstore-source/releases/download/com.mkopenga.ratsquads-1.1.0-2/67ce4fa4-8948-3e26-bffb-9d064271f778.ipa",
+            "69733ec0-8928-3dfe-8bbf-fe01e9be1a91": "https://github.com/mjarkk/altstore-source/releases/download/com.mkopenga.ratsquads-1.1.0-2/69733ec0-8928-3dfe-8bbf-fe01e9be1a91.ipa",
+            "6ad55e87-81ac-3915-8145-44460cb44a63": "https://github.com/mjarkk/altstore-source/releases/download/com.mkopenga.ratsquads-1.1.0-2/6ad55e87-81ac-3915-8145-44460cb44a63.ipa",
+            "9461c3e3-b277-3a57-a9e2-07989c6b7e56": "https://github.com/mjarkk/altstore-source/releases/download/com.mkopenga.ratsquads-1.1.0-2/9461c3e3-b277-3a57-a9e2-07989c6b7e56.ipa"
+          },
+          "size": 13677323,
+          "minOSVersion": "15.0"
+        }
+      ],
       "appPermissions": {
         "entitlements": [
           "beta-reports-active",
