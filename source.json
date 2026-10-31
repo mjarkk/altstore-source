@@ -1,0 +1,58 @@
+{
+  "name": "Mark Kopenga",
+  "subtitle": "Apps by Mark Kopenga",
+  "nsfw": false,
+  "apps": [
+    {
+      "name": "RatSquads",
+      "bundleIdentifier": "com.mkopenga.ratsquads",
+      "marketplaceID": "6827158588",
+      "developerName": "Mark Kopenga",
+      "subtitle": "Collect map tiles on your rides, runs and hikes",
+      "localizedDescription": "Collect map tiles by visiting them on your rides, runs and hikes. Sign in with Strava and your activities fill in the squares you have been to.",
+      "iconURL": "https://raw.githubusercontent.com/mjarkk/altstore-source/main/icons/ratsquads.png",
+      "category": "lifestyle",
+      "screenshots": {
+        "iphone": [
+          "https://raw.githubusercontent.com/mjarkk/altstore-source/main/screenshots/ratsquads/iphone/1-map.jpg",
+          "https://raw.githubusercontent.com/mjarkk/altstore-source/main/screenshots/ratsquads/iphone/2-activities.jpg",
+          "https://raw.githubusercontent.com/mjarkk/altstore-source/main/screenshots/ratsquads/iphone/3-stats.jpg",
+          "https://raw.githubusercontent.com/mjarkk/altstore-source/main/screenshots/ratsquads/iphone/4-activity.jpg"
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://raw.githubusercontent.com/mjarkk/altstore-source/main/screenshots/ratsquads/ipad/1-map.jpg",
+            "width": 1536,
+            "height": 2048
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/mjarkk/altstore-source/main/screenshots/ratsquads/ipad/2-activities.jpg",
+            "width": 1536,
+            "height": 2048
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/mjarkk/altstore-source/main/screenshots/ratsquads/ipad/3-stats.jpg",
+            "width": 1536,
+            "height": 2048
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/mjarkk/altstore-source/main/screenshots/ratsquads/ipad/4-yard.jpg",
+            "width": 1536,
+            "height": 2048
+          }
+        ]
+      },
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [
+          "beta-reports-active",
+          "get-task-allow"
+        ],
+        "privacy": {
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Your location is used to center the map on where you are when you tap the location button.",
+          "NSLocationWhenInUseUsageDescription": "Your location is used to center the map on where you are when you tap the location button."
+        }
+      }
+    }
+  ]
+}
