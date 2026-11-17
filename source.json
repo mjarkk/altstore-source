@@ -44,6 +44,26 @@
       },
       "versions": [
         {
+          "version": "1.2.4",
+          "buildVersion": "8",
+          "date": "2026-11-17",
+          "downloadURL": "https://github.com/mjarkk/altstore-source/releases/download/com.mkopenga.ratsquads-1.2.4-8/manifest.json",
+          "assetURLs": {
+            "manifest": "https://github.com/mjarkk/altstore-source/releases/download/com.mkopenga.ratsquads-1.2.4-8/manifest.json",
+            "signature": "https://github.com/mjarkk/altstore-source/releases/download/com.mkopenga.ratsquads-1.2.4-8/signature",
+            "0b53f320-f4da-30bd-a3cf-fa465596d862": "https://github.com/mjarkk/altstore-source/releases/download/com.mkopenga.ratsquads-1.2.4-8/0b53f320-f4da-30bd-a3cf-fa465596d862.ipa",
+            "15a1c7dc-1af9-36e1-a918-8178c3457e99": "https://github.com/mjarkk/altstore-source/releases/download/com.mkopenga.ratsquads-1.2.4-8/15a1c7dc-1af9-36e1-a918-8178c3457e99.ipa",
+            "2e4f923f-d828-37b6-bc90-379dd643469b": "https://github.com/mjarkk/altstore-source/releases/download/com.mkopenga.ratsquads-1.2.4-8/2e4f923f-d828-37b6-bc90-379dd643469b.ipa",
+            "366e74bb-9520-30df-b1c5-4944d666efb6": "https://github.com/mjarkk/altstore-source/releases/download/com.mkopenga.ratsquads-1.2.4-8/366e74bb-9520-30df-b1c5-4944d666efb6.ipa",
+            "d8025c24-3e1e-31a6-8407-31bf5c88a454": "https://github.com/mjarkk/altstore-source/releases/download/com.mkopenga.ratsquads-1.2.4-8/d8025c24-3e1e-31a6-8407-31bf5c88a454.ipa",
+            "e45dc14d-753c-3f7a-9caf-faa93a7deaa5": "https://github.com/mjarkk/altstore-source/releases/download/com.mkopenga.ratsquads-1.2.4-8/e45dc14d-753c-3f7a-9caf-faa93a7deaa5.ipa",
+            "e856d969-95a6-3f63-ab0f-972b164d03ab": "https://github.com/mjarkk/altstore-source/releases/download/com.mkopenga.ratsquads-1.2.4-8/e856d969-95a6-3f63-ab0f-972b164d03ab.ipa",
+            "f34d8963-3ed7-39e6-b559-6b48d7fc4937": "https://github.com/mjarkk/altstore-source/releases/download/com.mkopenga.ratsquads-1.2.4-8/f34d8963-3ed7-39e6-b559-6b48d7fc4937.ipa"
+          },
+          "size": 13743820,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "1.1.0",
           "buildVersion": "2",
           "date": "2026-10-31",
@@ -70,8 +90,8 @@
           "get-task-allow"
         ],
         "privacy": {
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "Your location is used to center the map on where you are when you tap the location button.",
-          "NSLocationWhenInUseUsageDescription": "Your location is used to center the map on where you are when you tap the location button."
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "The map shows where you are and marks the squares you pass, also while RatSquads is in the background, for up to 8 hours. Your location stays on your phone.",
+          "NSLocationWhenInUseUsageDescription": "The map shows where you are and marks the squares you pass, also while RatSquads is in the background, for up to 8 hours. Your location stays on your phone."
         }
       }
     }
